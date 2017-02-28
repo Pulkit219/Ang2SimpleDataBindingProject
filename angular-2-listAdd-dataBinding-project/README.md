@@ -5,7 +5,14 @@
 <br>
 ===========================================
 <br>
-<h4>It uses Data binding, string interpolation, vModel for Model-view=view-model structure etc.</h4>
+<h4>It uses </h4>
+<ul> 
+<li>Data binding</li>
+<li>string interpolation</li>
+<li>vModel for Model-view=view-model structure</li>
+<li>etc..</li>
+
+</ul>
 <br>
 <br>
 <br>
