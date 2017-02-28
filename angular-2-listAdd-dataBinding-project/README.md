@@ -1,6 +1,6 @@
 # Angular 2 Simple data binding, addListing project
 
 <br>
-<h3>Prieview</h3>
+<h3>Preview</h3>
 <br>
 <img height= 500 src="https://media.giphy.com/media/26BGP0xNuvpei1pLy/source.gif">
