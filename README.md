@@ -1,1 +1,1 @@
-# Angular2 Projects goes here>>>>
+# Angular2 Simple set up Project
